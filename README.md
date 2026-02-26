@@ -17,10 +17,6 @@
 
 <br>
 
-🌐 [My Website](https://github.com/TonyScar47)
-
-<hr>
-
 <p align="center">
   
   <table><tr><td valign="top" width="1000px">
