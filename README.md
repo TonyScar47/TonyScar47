@@ -15,7 +15,7 @@
 - 🌱 *Hunting for flags* 
 - 🎯 ***Extremely perfectionist***
 
-<br>
+<hr>
 
 <p align="center">
   
