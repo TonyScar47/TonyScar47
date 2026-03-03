@@ -8,6 +8,7 @@
 - 📰 *I love documenting everything — because clarity is key*
 - 🌱 *Hunting for flags* 
 - 🎯 ***Extremely perfectionist***
+- 🔧 *Fall in lave with Bash"
 
 <hr>
 
