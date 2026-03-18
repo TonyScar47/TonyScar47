@@ -24,10 +24,16 @@
     <img src="https://img.shields.io/badge/-PHP-green?color=%23777BB4&style=flat&logo=php&logoColor=white" />
     <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white" />
     <img src="https://img.shields.io/badge/-CSS-green?color=%23663399&style=flat&logo=CSS&logoColor=white" />
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+    <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
 
-  - <img src="https://img.shields.io/badge/-Linux-green?color=%23FCC624&style=flat&logo=linux&logoColor=white" />
+  - 
     <img src="https://img.shields.io/badge/-Windows-green?color=%2380B3FF&style=flat&logo=gitforwindows&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Bash-green?color=%234EAA25&style=flat&logo=gnubash&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Wireshark-green?color=%231679A7&style=flat&logo=wireshark&logoColor=white" />
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Tor_project-green?color=%237D4698&style=flat&logo=torproject&logoColor=white" />
+    
 
     <sub></sub>
     
@@ -35,12 +41,16 @@
   
   ***Skills*** <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="14" />
   
-  - <img src="https://img.shields.io/badge/-Lua-green?color=%232C2D72&style=flat&logo=lua&logoColor=white" />
+  - <img src="https://img.shields.io/badge/-Linux-green?color=%23FCC624&style=flat&logo=linux&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Bash-green?color=%234EAA25&style=flat&logo=gnubash&logoColor=white" />
     <img src="https://img.shields.io/badge/-Python-green?color=%233776AB&style=flat&logo=python&logoColor=white" />
   
-  - <img src="https://img.shields.io/badge/-Wireshark-green?color=%231679A7&style=flat&logo=wireshark&logoColor=white" />
+  - 
     <img src="https://img.shields.io/badge/-Postman-green?color=%23FF6C37&style=flat&logo=postman&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Tor_project-green?color=%237D4698&style=flat&logo=torproject&logoColor=white" />
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+    <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
+    <img src="https://img.shields.io/badge/Ghidra-131E2A?style=for-the-badge&logo=ghidra&logoColor=white" />    
+    
   
   </td></tr></table>
 
