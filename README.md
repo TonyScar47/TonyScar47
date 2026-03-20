@@ -2,7 +2,7 @@
 
 ## <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="20"> Turning coffee into code and ideas into reality ...
 
-## I break, build, and automate things.
+## 😄 I break, build, and automate things.
 
 - 🎓 *Cybersecurity student at Polytechnic University of Bari*
 - 🔭 *Nothing is secure, all is fragile*
