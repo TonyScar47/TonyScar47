@@ -46,12 +46,13 @@
   
   ***Skills*** <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="14" />
   
-  - <img src="https://img.shields.io/badge/-Linux-green?color=%23FCC624&style=flat&logo=linux&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Bash-green?color=%234EAA25&style=flat&logo=gnubash&logoColor=white" />
+  - 
     <img src="https://img.shields.io/badge/-Python-green?color=%233776AB&style=flat&logo=python&logoColor=white" />
   
   - 
     <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Linux-green?color=%23FCC624&style=flat&logo=linux&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Bash-green?color=%234EAA25&style=flat&logo=gnubash&logoColor=white" />
     
   
   </td></tr></table>
