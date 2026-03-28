@@ -37,6 +37,7 @@
     <img src="https://img.shields.io/badge/-Tor_project-green?color=%237D4698&style=flat&logo=torproject&logoColor=white" />
     <img src="https://img.shields.io/badge/-Ghidra-131E2A?style=flat&logo=ghidra&logoColor=white" />
     <img src="https://img.shields.io/badge/-Burp_Suite-FF6633?style=flat&logo=burpsuite&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Postman-green?color=%23FF6C37&style=flat&logo=postman&logoColor=white" />
     
 
     <sub></sub>
@@ -50,7 +51,6 @@
     <img src="https://img.shields.io/badge/-Python-green?color=%233776AB&style=flat&logo=python&logoColor=white" />
   
   - 
-    <img src="https://img.shields.io/badge/-Postman-green?color=%23FF6C37&style=flat&logo=postman&logoColor=white" />
     <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" />
     
   
