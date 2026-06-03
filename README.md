@@ -14,6 +14,8 @@
 
 <hr>
 
+<!--
+
 <p align="center">
   
   <table><tr><td valign="top" width="1000px">
@@ -58,6 +60,8 @@
   </td></tr></table>
 
 </p>
+
+-->
 
 <!--
 - 🔭 I’m currently working on ...
