@@ -12,9 +12,9 @@
 - 🎯 ***Extremely perfectionist***
 - 🔧 **Fall in love with Bash**
 
-<hr>
-
 <!--
+
+<hr>
 
 <p align="center">
   
